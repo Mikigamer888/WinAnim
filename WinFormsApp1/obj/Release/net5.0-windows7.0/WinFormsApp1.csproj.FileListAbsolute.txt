@@ -1,0 +1,17 @@
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.Form1.resources
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\WinFormsApp1.exe
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\WinFormsApp1.deps.json
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\WinFormsApp1.runtimeconfig.json
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\WinFormsApp1.dll
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\WinFormsApp1.pdb
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.dll
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\refint\WinFormsApp1.dll
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.pdb
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\obj\Release\net5.0-windows7.0\ref\WinFormsApp1.dll

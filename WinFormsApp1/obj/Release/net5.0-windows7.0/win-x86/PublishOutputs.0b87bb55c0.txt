@@ -1,0 +1,2 @@
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\win-x86\publish\WinFormsApp1.pdb
+C:\Users\Mikigamer888\Documents\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows7.0\win-x86\publish\WinFormsApp1.exe
